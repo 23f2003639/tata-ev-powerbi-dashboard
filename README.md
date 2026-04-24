@@ -8,7 +8,7 @@ No real company or customer data is used.
 
 ## Preview
 
-![Dashboard](preview/page1.jpg)
+![Dashboard](preview/page1.png)
 ![Dashboard](preview/page2.jpg)
 
 ## Project Overview
