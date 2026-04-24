@@ -6,6 +6,11 @@ No real company or customer data is used.
 
 ---
 
+## Preview
+
+![Dashboard](preview/page1.jpg)
+![Dashboard](preview/page2.jpg)
+
 ## Project Overview
 
 - Generated a synthetic dataset to represent EV sales, revenue, model-wise performance, and state-wise adoption in India using Python.
